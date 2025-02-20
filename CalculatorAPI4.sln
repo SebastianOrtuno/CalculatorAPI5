@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorAPI4", "CalculatorAPI4\CalculatorAPI4.csproj", "{18D13882-4188-4015-B983-8ED9D34CEFA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18D13882-4188-4015-B983-8ED9D34CEFA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18D13882-4188-4015-B983-8ED9D34CEFA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18D13882-4188-4015-B983-8ED9D34CEFA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18D13882-4188-4015-B983-8ED9D34CEFA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
